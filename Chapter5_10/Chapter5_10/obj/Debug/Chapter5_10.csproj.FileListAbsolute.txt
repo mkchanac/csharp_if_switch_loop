@@ -1,0 +1,7 @@
+C:\Users\unite\source\repos\Chapter5_10\Chapter5_10\obj\Debug\Chapter5_10.csprojAssemblyReference.cache
+C:\Users\unite\source\repos\Chapter5_10\Chapter5_10\obj\Debug\Chapter5_10.csproj.CoreCompileInputs.cache
+C:\Users\unite\source\repos\Chapter5_10\Chapter5_10\bin\Debug\Chapter5_10.exe.config
+C:\Users\unite\source\repos\Chapter5_10\Chapter5_10\bin\Debug\Chapter5_10.exe
+C:\Users\unite\source\repos\Chapter5_10\Chapter5_10\bin\Debug\Chapter5_10.pdb
+C:\Users\unite\source\repos\Chapter5_10\Chapter5_10\obj\Debug\Chapter5_10.exe
+C:\Users\unite\source\repos\Chapter5_10\Chapter5_10\obj\Debug\Chapter5_10.pdb
